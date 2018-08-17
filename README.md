@@ -5,7 +5,7 @@
 
 # typed-immutable-proptypes
 
-This library provides support for getting [React Prop-Types](https://github.com/facebook/prop-types) for native JavaScript types, types from [typed-immutable](https://github.com/typed-immutable/typed-immutable), and types from [@brightcovee/typed-immutable-extensions](https://github.com/brightcove/typed-immutable-extensions)
+This library provides support for getting [React Prop-Types](https://github.com/facebook/prop-types) for native JavaScript types, types from [typed-immutable](https://github.com/typed-immutable/typed-immutable), and types from [@brightcove/typed-immutable-extensions](https://github.com/brightcove/typed-immutable-extensions)
 
 ## Usage
 

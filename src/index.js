@@ -91,7 +91,7 @@ module.exports.propTypeOf = (type) => {
     return PropTypes.instanceOf(type);
   }
   if (type instanceof Union.Type) {
-    return PropTypes.oneOfType(type[Typed.type].map(propTypeOf));
+    return PropTypes.oneOfType(type[Typed.type].map(module.exports.propTypeOf));
   }
   if (type instanceof Enum.Type) {
     return PropTypes.oneOf(type[Typed.type]);
@@ -130,7 +130,7 @@ module.exports.propTypeOf = (type) => {
     return PropTypes.instanceOf(Date);
   }
   if (type instanceof Maybe.Type || type instanceof ExtMaybe.Type) {
-    return propTypeOf(type[Typed.type]);
+    return module.exports.propTypeOf(type[Typed.type]);
   }
   if (type === Typed.Any) {
     return PropTypes.any;

@@ -1,7 +1,8 @@
 [![Version](https://img.shields.io/npm/v/@brightcove/typed-immutable-proptypes.svg)](https://www.npmjs.com/package/@brightcove/typed-immutable-proptypes)
 [![Downloads](https://img.shields.io/npm/dt/@brightcove/typed-immutable-proptypes.svg)](https://www.npmjs.com/package/@brightcove/typed-immutable-proptypes)
 [![Build Status](https://travis-ci.org/brightcove/typed-immutable-proptypes.svg?branch=master)](https://travis-ci.org/brightcove/typed-immutable-proptypes)
-[![Coverage](https://img.shields.io/codecov/c/github/brightcove/typed-immutable-proptypes/master.svg)](https://codecov.io/gh/brightcove/typed-immutable-proptypes) [![Greenkeeper badge](https://badges.greenkeeper.io/brightcove/typed-immutable-proptypes.svg)](https://greenkeeper.io/)
+[![Coverage](https://img.shields.io/codecov/c/github/brightcove/typed-immutable-proptypes/master.svg)](https://codecov.io/gh/brightcove/typed-immutable-proptypes)
+[![Greenkeeper badge](https://badges.greenkeeper.io/brightcove/typed-immutable-proptypes.svg)](https://greenkeeper.io/)
 
 # typed-immutable-proptypes
 

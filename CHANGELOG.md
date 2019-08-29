@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- Updated eslint and mocha library to fix vulnerabilities
+
 ### Added
 
 - Added automated releases of new versions

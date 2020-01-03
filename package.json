@@ -1,6 +1,6 @@
 {
   "name": "@brightcove/typed-immutable-proptypes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React prop-types for typed-immutable types",
   "main": "lib/index.js",
   "scripts": {

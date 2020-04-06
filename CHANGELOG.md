@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.3] - 2020-04-06
 ### Fixed
 - Updated package-lock.json to  fix vulnerabilities
 
@@ -25,6 +26,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - `propTypeOf` function for getting prop-types from native, typed-immutable, and typed-immutable-extension types
 
-[Unreleased]: https://github.com/brightcove/typed-immutable-proptypes/compare/v0.1.2...HEAD
+[Unreleased]: https://github.com/brightcove/typed-immutable-proptypes/compare/v0.1.3...HEAD
+[0.1.3]: https://github.com/brightcove/typed-immutable-proptypes/compare/v0.1.2...v0.1.3
 [0.1.2]: https://github.com/brightcove/typed-immutable-proptypes/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/brightcove/typed-immutable-proptypes/compare/v0.1.0...v0.1.1

@@ -34,7 +34,7 @@
     "chai": "^4.1.2",
     "eslint": "^6.2.2",
     "gh-release": "^4.0.3",
-    "immutable": "^3.8.2",
+    "immutable": "^5.1.5",
     "jsdoc-to-markdown": "^5.0.0",
     "mocha": "^7.0.1",
     "nyc": "^15.0.0",

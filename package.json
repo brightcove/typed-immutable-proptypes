@@ -32,7 +32,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "chai": "^4.1.2",
-    "eslint": "^6.2.2",
+    "eslint": "^10.0.3",
     "gh-release": "^4.0.3",
     "immutable": "^3.8.2",
     "jsdoc-to-markdown": "^5.0.0",
